@@ -45,12 +45,7 @@ Stay updated with our latest news and insights:
 - [LinkedIn](https://www.linkedin.com/company/magnusmind)
 - [Twitter](https://twitter.com/magnusminds)
 - [Facebook](https://www.facebook.com/MagnusMinds-112542050093975/)
-- [Instagram](https://www.instagram.com/magnusminds_it_solution/)
-- [Skype](skype:live:.cid.572f1591fb59c060?chat)
+- [Instagram](https://www.instagram.com/magnusminds_it_solution/) 
 - [Whatsapp](https://api.whatsapp.com/send?phone=919714077532)
 
-Thank you for visiting our GitHub profile. We look forward to collaborating with you!
-
----
-
-*Note: This is a sample profile README created based on the information available on the Magnus Minds website.*
+Thank you for visiting our GitHub profile. We look forward to collaborating with you! 
