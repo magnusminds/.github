@@ -1,10 +1,10 @@
-# Magnus Minds
+# MagnusMinds
 
-Welcome to Magnus Minds' GitHub profile!
+Welcome to MagnusMinds' GitHub profile!
 
 ## About Us
 
-At Magnus Minds, we are a leading technology company specializing in delivering innovative and high-quality IT solutions. Our team of experts is dedicated to providing businesses with cutting-edge technology to drive growth and efficiency.
+At MagnusMinds, we are a leading technology company specializing in delivering innovative and high-quality IT solutions. Our team of experts is dedicated to providing businesses with cutting-edge technology to drive growth and efficiency.
 
 ## Services
 
@@ -34,17 +34,20 @@ Our approach is centered around understanding our clients' unique challenges and
 
 Want to learn more about how we can help your business? Get in touch with us!
 
-- **Website**: [magnusminds.net](https://www.magnusminds.net/)
-- **Email**: info@magnusminds.net
-- **Phone**: +1-234-567-8900
+- **Website**: [MagnusMinds.net](https://www.magnusminds.net/)
+- **Email**: sales@magnusminds.net
+- **Phone**: +91 97244 90856
 
 ## Connect with Us
 
 Stay updated with our latest news and insights:
 
-- [LinkedIn](https://www.linkedin.com/company/magnusminds)
+- [LinkedIn](https://www.linkedin.com/company/magnusmind)
 - [Twitter](https://twitter.com/magnusminds)
-- [Facebook](https://www.facebook.com/magnusminds)
+- [Facebook](https://www.facebook.com/MagnusMinds-112542050093975/)
+- [Instagram](https://www.instagram.com/magnusminds_it_solution/)
+- [Skype](skype:live:.cid.572f1591fb59c060?chat)
+- [Whatsapp](https://api.whatsapp.com/send?phone=919714077532)
 
 Thank you for visiting our GitHub profile. We look forward to collaborating with you!
 
