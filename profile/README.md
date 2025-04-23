@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.magnusminds.net/images/logo-horizontal.webp" width="150" alt="MagnusMinds Logo"/>
+  <img src="https://www.magnusminds.net/images/logo-horizontal.webp" width="350" alt="MagnusMinds Logo"/>
 </p>
 
 <h1 align="center">Welcome to MagnusMinds 👋</h1>
