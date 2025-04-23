@@ -14,7 +14,7 @@
 
 At **MagnusMinds**, we are a leading technology company specializing in delivering innovative and high-quality IT solutions. Our team of experts is dedicated to providing businesses with cutting-edge technology to drive growth and efficiency.
 
-🔗 [Visit our website](https://magnusminds.net) | 📬 hello@magnusminds.net
+🔗 [Visit our website](https://magnusminds.net) | 📬 [Sales@magnusminds.net](mailto:sales@magnusminds.net)
 
 ---
 
