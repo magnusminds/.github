@@ -20,13 +20,13 @@ At **MagnusMinds**, we are a leading technology company specializing in deliveri
 
 ## 🧩 Our Core Services
 
-- 🔹 **Custom Software Development**
-- 🔹 **Web & Mobile App Development**
-- 🔹 **Cloud Solutions (Azure & AWS)**
-- 🔹 **DevOps Services**
-- 🔹 **AI & Machine Learning**
-- 🔹 **E-commerce Solutions**
-- 🔹 **Digital Transformation Consulting**
+- **Custom Software Development**
+- **Web & Mobile App Development**
+- **Cloud Solutions (Azure & AWS)**
+- **DevOps Services**
+- **AI & Machine Learning**
+- **E-commerce Solutions**
+- **Digital Transformation Consulting**
 
 ---
 
@@ -45,7 +45,7 @@ At **MagnusMinds**, we are a leading technology company specializing in deliveri
     <img src="https://magnusminds.net/images/upworks-updated.webp" alt="MagnusMinds Upwork Profile" width="140" />
   </a>
   <a href="https://reputedfirms.com/magnusminds" target="_blank">
-    <img src="https://magnusminds.net/images/extract.webp" alt="MagnusMinds ReputedFirms Profile" width="140" />
+    <img src="https://magnusminds.net/images/extract.webp" alt="MagnusMinds ReputedFirms Profile" width="180" />
   </a>
   <a href="https://clutch.co/profile/magnusminds-it-solution-llp" target="_blank">
     <img src="https://magnusminds.net/images/clutch-2020.webp" alt="MagnusMinds Clutch 2020" width="140" />
@@ -54,7 +54,7 @@ At **MagnusMinds**, we are a leading technology company specializing in deliveri
     <img src="https://magnusminds.net/images/clutch-2024.webp" alt="MagnusMinds Clutch 2024" width="140" />
   </a>
   <a href="https://clutch.co/profile/magnusminds-it-solution-llp" target="_blank">
-    <img src="https://magnusminds.net/images/Clutch-global-2024.png" alt="MagnusMinds Global Clutch 2024" width="140" />
+    <img src="https://magnusminds.net/images/Clutch-global-2024.png" alt="MagnusMinds Global Clutch 2024" width="170" />
   </a>
 </p>
 
