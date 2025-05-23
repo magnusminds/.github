@@ -225,7 +225,7 @@ At **MagnusMinds**, we are a leading technology company specializing in deliveri
 
 ## 💪 Developers & People 
 
-[![Github Badge](https://img.shields.io/badge/-@mm--kishanp-321?style=flat&logo=Github&logoColor=white)](https://github.com/kishanp)
+[![Github Badge](https://img.shields.io/badge/-@mm--kishanp-321?style=flat&logo=Github&logoColor=white)](https://github.com/mm-kishanp)
 [![Github Badge](https://img.shields.io/badge/-@lakshyafr-654?style=flat&logo=Github&logoColor=white)](https://github.com/lakshya-fr)
 [![Github Badge](https://img.shields.io/badge/-@mm--aneris-987?style=flat&logo=Github&logoColor=white)](https://github.com/mm-aneris)
 [![Github Badge](https://img.shields.io/badge/-@mm--aniljambukiya-586?style=flat&logo=Github&logoColor=white)](https://github.com/mm-aniljambukiya)
